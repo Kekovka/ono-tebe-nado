@@ -7,6 +7,7 @@
 **Github pages**
 
 - [Ссылка Github pages](https://kekovka.github.io/ono-tebe-nado/)
+- [Ссылка на репозиторий](https://github.com/Kekovka/ono-tebe-nado.git/)
 
 **Технологии, примененные в данной работе**
 
