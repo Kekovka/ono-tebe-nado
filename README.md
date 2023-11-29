@@ -6,7 +6,7 @@
 
 **Github pages**
 
-- [Ссылка Github pages]()
+- [Ссылка Github pages](https://kekovka.github.io/ono-tebe-nado/)
 
 **Технологии, примененные в данной работе**
 
